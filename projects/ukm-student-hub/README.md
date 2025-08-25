@@ -49,8 +49,6 @@ UKM Student Hub is a student-first mobile prototype connecting UKM students thro
 ---
 
 ## 📂 Assets / Screenshots
-> Add your screenshots or GIFs here by placing them in `/assets/` folder
-
 ![Login Screen](assets/login-screen.png)
 ![Marketplace Screen](assets/marketplace-screen.png)
 ![Chat Screen](assets/chat-screen.png)
