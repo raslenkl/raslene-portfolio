@@ -3,15 +3,17 @@
 Welcome to my GitHub portfolio!  
 I’m a Tunisian student at Universiti Kebangsaan Malaysia (UKM), pursuing a degree in Information Science & Technology (expected graduation: 2027).  
 My work bridges **software engineering, game development, and mobile applications**, with projects ranging from student community platforms to experimental indie games.
+I also have experience with editing (davinci resolve) and Youtube (Philosphy side project).
 
 ---
 
 ## 📚 Academic Highlights
 - **CGPA:** 3.89 / 4.00 (Dean’s List every semester)  
-- **Tunisian Baccalaureate (Science):** 16.71 / 20  
+- **Cambridge C1 Advanced (CAE):** 190 – 2020 
+- **Tunisian Baccalaureate (Science):** 16.71 / 20  - 2023
 - **SAT:** 1340 (Math: 710) – 2023  
 - **TOEFL iBT:** 99 / 120 – 2023  
-- **Cambridge C1 Advanced (CAE):** 190 – 2020  
+ 
 
 ---
 
@@ -37,7 +39,7 @@ My work bridges **software engineering, game development, and mobile application
 
 ---
 
-### 🎮 Pixel Art Adventure Game – *Prototype*
+### 🎮 Pixel Art Adventure Game – *In Progress*
 - 2D game exploring dark-gothic themes.  
 - Built with **Godot** + **Aseprite** (custom sprite sheets and animations).  
 
@@ -51,9 +53,10 @@ Outside coding, I explore philosophy through YouTube channels:
 ---
 
 ## 🛠️ Skills
-- **Languages & Tools:** Kotlin, Java, Python, C++, SQL, Firebase, MySQL, Unity, Godot, Blender, Aseprite  
+- **Languages & Tools:** Kotlin, Java, Python, C++, SQL, Firebase, MySQL, Unity, Godot, Blender, Aseprite, Davinci Resolve, Canva, Unreal Engine
 - **Mobile Development:** Android Studio, Firebase integration, Firestore  
 - **Game Development:** Unity (3D), Godot (2D), asset creation in Blender & Aseprite  
+- **Media** Editing in Davinci Resolve, Thumbnailing with Canva.
 - **Other:** Git/GitHub, UI/UX prototyping, problem-solving, research  
 
 ---
@@ -61,7 +64,7 @@ Outside coding, I explore philosophy through YouTube channels:
 ## 🌍 Languages
 - Arabic (Native)  
 - French (Fluent)  
-- English (C1, TOEFL 99, CAE 190)  
+- English (Fluent) (C1, TOEFL 99, CAE 190)  
 - German (Intermediate)  
 
 ---
@@ -76,7 +79,7 @@ Outside coding, I explore philosophy through YouTube channels:
 
 ## 📫 Contact
 - 📧 Email: klairaslen@gmail.com  
-- 📱 Phone: +60162205898  
-- 💼 LinkedIn: *(to be added if you create one)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/raslen-klai-532513197/ 
 
 ---
+
