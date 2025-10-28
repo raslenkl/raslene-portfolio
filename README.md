@@ -1,7 +1,7 @@
 # Raslen Klai – Portfolio
 
 Welcome to my GitHub portfolio!  
-I’m a Tunisian student at Universiti Kebangsaan Malaysia (UKM), pursuing a degree in Information Science & Technology (expected graduation: 2027).  
+I’m a Tunisian student at Universiti Kebangsaan Malaysia (UKM), pursuing a Bachelor of Software Engineering with Honours – Multimedia System Development  (expected graduation: 2027).  
 My work bridges **software engineering, game development, and mobile applications**, with projects ranging from student community platforms to experimental indie games.
 I also have experience with editing (davinci resolve) and Youtube (Philosphy side project).
 
@@ -91,5 +91,6 @@ Outside coding, I explore philosophy through YouTube channels:
 - 💼 LinkedIn: https://www.linkedin.com/in/raslen-klai-532513197/ 
 
 ---
+
 
 
