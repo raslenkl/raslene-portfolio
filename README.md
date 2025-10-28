@@ -33,6 +33,15 @@ I also have experience with editing (davinci resolve) and Youtube (Philosphy sid
 
 ---
 
+### 🔎 Perspective-shift based Game on inequality (as a FYP that will be finished around June) – *In Progress*
+- Core gameplay revolves around seeing the same levels from different lenses(Priviliged vs unprivileged)
+- Developed a dual-character perspective system with adaptive gameplay logic.
+- Highlights social and philosophical aspects inspired by The Stanley Parable.
+- Focuses on fostering empathy through interactive storytelling and humor.
+- Being Built with **Unity + Blender** (models/animations).  
+
+---
+
 ### 🚚 Multiplayer Food Truck Game – *In Progress*
 - A 3D multiplayer game where players manage and compete in food truck businesses.  
 - Built with **Unity + Blender** (models/animations).  
@@ -82,4 +91,5 @@ Outside coding, I explore philosophy through YouTube channels:
 - 💼 LinkedIn: https://www.linkedin.com/in/raslen-klai-532513197/ 
 
 ---
+
 
