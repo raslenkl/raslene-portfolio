@@ -30,10 +30,8 @@ I also have experience with editing (davinci resolve) and Youtube (Philosphy sid
 ### 🏗️ Construction Project Management System (CPMS) – *In Progress*
 - A system to streamline construction project workflows (task tracking, resource allocation).  
 - **Kotlin (Android Studio)** + MySQL backend.  
-ScreenShots:
-<img width="388" height="863" alt="Screenshot 2025-11-14 160209" src="https://github.com/user-attachments/assets/7c826b75-3a6c-4085-96c6-5c177f9cbc6d" />
-<img width="375" height="843" alt="Screenshot 2025-11-14 160221" src="https://github.com/user-attachments/assets/0bcfff79-93b2-40d8-bab4-6c89a7a3dc39" />
-<img width="388" height="866" alt="Screenshot 2025-11-14 160244" src="https://github.com/user-attachments/assets/65a4765f-ead3-4fc9-90d3-66bf90d94e16" />
+📸 Screenshots
+<img width="388" height="863" src="https://github.com/user-attachments/assets/7c826b75-3a6c-4085-96c6-5c177f9cbc6d" /> <img width="375" height="843" src="https://github.com/user-attachments/assets/0bcfff79-93b2-40d8-bab4-6c89a7a3dc39" /> <img width="388" height="866" src="https://github.com/user-attachments/assets/65a4765f-ead3-4fc9-90d3-66bf90d94e16" />
 
 ---
 
@@ -51,13 +49,13 @@ ScreenShots:
 ### 🚚 Multiplayer Food Truck Game – *In Progress*
 - A 3D multiplayer game where players manage and compete in food truck businesses.  
 - Built with **Unity + Blender** (models/animations).  
-ScreenShots:
-<img width="1889" height="934" alt="Screenshot 2025-11-14 160430" src="https://github.com/user-attachments/assets/a8b002ae-8015-4bef-b61b-6669edab9c51" />
+📸 Screenshot
+<img width="1889" height="934" src="https://github.com/user-attachments/assets/a8b002ae-8015-4bef-b61b-6669edab9c51" />
 
 ---
 
 ### 🎮 Pixel Art Adventure Game – *In Progress*
-- 2D game exploring dark-gothic themes.  
+- A 2D gothic-inspired adventure with custom pixel art, animations, and combat logic.
 - Built with **Godot** + **Aseprite** (custom sprite sheets and animations).
   
 ![animation armored](https://github.com/user-attachments/assets/b6c36801-719e-40d3-9627-148754dc4d8e) ![animation](https://github.com/user-attachments/assets/b9e8b160-3858-4bc3-985a-e0a76ca23cc3)
@@ -101,6 +99,7 @@ Outside coding, I explore philosophy through YouTube channels:
 - 💼 LinkedIn: https://www.linkedin.com/in/raslen-klai-532513197/ 
 
 ---
+
 
 
 
