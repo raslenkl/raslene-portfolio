@@ -58,6 +58,7 @@ I also have experience with editing (davinci resolve) and Youtube (Philosphy sid
   <img width="500" height="519" alt="Screenshot 2025-11-14 165609" src="https://github.com/user-attachments/assets/5eed41a4-84c8-41d7-a384-eaca89bc9aa4" />
   <img width="500" height="544" alt="Screenshot 2025-11-14 165601" src="https://github.com/user-attachments/assets/bea287be-ecf5-4fdd-b6c9-b7b688fdab73" />
 </p>
+First Gameplay look: https://youtu.be/AIU8OAW3sNM
 ---
 
 ### 🎮 Pixel Art Adventure Game – *In Progress*
@@ -109,6 +110,7 @@ Outside coding, I explore philosophy through YouTube channels:
 - 💼 LinkedIn: https://www.linkedin.com/in/raslen-klai-532513197/ 
 
 ---
+
 
 
 
