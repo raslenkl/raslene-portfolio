@@ -30,10 +30,14 @@ I also have experience with editing (davinci resolve) and Youtube (Philosphy sid
 ### 🏗️ Construction Project Management System (CPMS) – *In Progress*
 - A system to streamline construction project workflows (task tracking, resource allocation).  
 - **Kotlin (Android Studio)** + MySQL backend.  
+ScreenShots:
+<img width="388" height="863" alt="Screenshot 2025-11-14 160209" src="https://github.com/user-attachments/assets/7c826b75-3a6c-4085-96c6-5c177f9cbc6d" />
+<img width="375" height="843" alt="Screenshot 2025-11-14 160221" src="https://github.com/user-attachments/assets/0bcfff79-93b2-40d8-bab4-6c89a7a3dc39" />
+<img width="388" height="866" alt="Screenshot 2025-11-14 160244" src="https://github.com/user-attachments/assets/65a4765f-ead3-4fc9-90d3-66bf90d94e16" />
 
 ---
 
-### 🔎 Perspective-shift based Game on inequality (as a FYP that will be finished around June) – *In Progress*
+### 🔎Perspective-Shift Empathy Game (Inequality & Narrative) (as a FYP that will be finished around June) – *In Progress*
 - Core gameplay revolves around seeing the same levels from different lenses(Priviliged vs unprivileged)
 - Developed a dual-character perspective system with adaptive gameplay logic.
 - Highlights social and philosophical aspects inspired by The Stanley Parable.
@@ -45,6 +49,8 @@ I also have experience with editing (davinci resolve) and Youtube (Philosphy sid
 ### 🚚 Multiplayer Food Truck Game – *In Progress*
 - A 3D multiplayer game where players manage and compete in food truck businesses.  
 - Built with **Unity + Blender** (models/animations).  
+ScreenShots:
+<img width="1889" height="934" alt="Screenshot 2025-11-14 160430" src="https://github.com/user-attachments/assets/a8b002ae-8015-4bef-b61b-6669edab9c51" />
 
 ---
 
@@ -93,6 +99,7 @@ Outside coding, I explore philosophy through YouTube channels:
 - 💼 LinkedIn: https://www.linkedin.com/in/raslen-klai-532513197/ 
 
 ---
+
 
 
 
