@@ -44,6 +44,8 @@ ScreenShots:
 - Focuses on fostering empathy through interactive storytelling and humor.
 - Being Built with **Unity + Blender** (models/animations).  
 
+[D1 Raslene Klai A199950.pdf](https://github.com/user-attachments/files/23542588/D1.Raslene.Klai.A199950.pdf)
+
 ---
 
 ### 🚚 Multiplayer Food Truck Game – *In Progress*
@@ -99,6 +101,7 @@ Outside coding, I explore philosophy through YouTube channels:
 - 💼 LinkedIn: https://www.linkedin.com/in/raslen-klai-532513197/ 
 
 ---
+
 
 
 
