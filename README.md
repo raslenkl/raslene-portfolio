@@ -62,8 +62,8 @@ I also have experience with editing (davinci resolve) and Youtube (Philosphy sid
 - Built with **Godot** + **Aseprite** (custom sprite sheets and animations).
   
 <p align="center">
-  <img width="300" src="https://github.com/user-attachments/assets/b6c36801-719e-40d3-9627-148754dc4d8e" />
-  <img width="300" src="https://github.com/user-attachments/assets/b9e8b160-3858-4bc3-985a-e0a76ca23cc3" />
+  <img width="500" src="https://github.com/user-attachments/assets/b6c36801-719e-40d3-9627-148754dc4d8e" />
+  <img width="500" src="https://github.com/user-attachments/assets/b9e8b160-3858-4bc3-985a-e0a76ca23cc3" />
 </p>
 
 
@@ -106,6 +106,7 @@ Outside coding, I explore philosophy through YouTube channels:
 - 💼 LinkedIn: https://www.linkedin.com/in/raslen-klai-532513197/ 
 
 ---
+
 
 
 
