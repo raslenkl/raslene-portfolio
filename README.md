@@ -50,7 +50,11 @@ I also have experience with editing (davinci resolve) and Youtube (Philosphy sid
 
 ### 🎮 Pixel Art Adventure Game – *In Progress*
 - 2D game exploring dark-gothic themes.  
-- Built with **Godot** + **Aseprite** (custom sprite sheets and animations).  
+- Built with **Godot** + **Aseprite** (custom sprite sheets and animations). 
+
+![animation](https://github.com/user-attachments/assets/2b1cc04e-d78a-4b9d-a7d6-b082cceabe5b)
+
+![animation armored](https://github.com/user-attachments/assets/a0bf9e3b-097e-4bf3-9ac2-a9ca00c9f7af)
 
 ---
 
@@ -91,6 +95,7 @@ Outside coding, I explore philosophy through YouTube channels:
 - 💼 LinkedIn: https://www.linkedin.com/in/raslen-klai-532513197/ 
 
 ---
+
 
 
 
