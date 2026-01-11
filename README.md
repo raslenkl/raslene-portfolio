@@ -73,12 +73,7 @@ First Gameplay look: https://youtu.be/AIU8OAW3sNM
 
 ---
 
-## 🎥 Creative Work
-Outside coding, I explore philosophy through YouTube channels:  
-- [Voided Thoughts](https://www.youtube.com/@voidedthoughts) (English)  
-- [تأملات الفراغ](https://www.youtube.com/@%D8%AA%D8%A3%D9%85%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%BA) (Arabic)  
 
----
 
 ## 🛠️ Skills
 - **Languages & Tools:** Kotlin, Java, Python, C++, SQL, Firebase, MySQL, Unity, Godot, Blender, Aseprite, Davinci Resolve, Canva, Unreal Engine
@@ -110,6 +105,7 @@ Outside coding, I explore philosophy through YouTube channels:
 - 💼 LinkedIn: https://www.linkedin.com/in/raslen-klai-532513197/ 
 
 ---
+
 
 
 
